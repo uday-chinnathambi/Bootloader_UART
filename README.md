@@ -8,6 +8,7 @@ Config:
 Board: STM32_Nucleo_F413ZH
 Comms: UART3
 Indiation: LED Green PB0 - LD1
+clk source changed to HSI - 16MHz
 
 Flashing steps of bootloader:
 - Memory Erase based on the bootloader start address and length of data
